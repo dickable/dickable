@@ -1,5 +1,12 @@
-![Typing GIF](https://files.catbox.moe/ks198t.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=F70E9F&width=435&lines=hello+internet+user;i%E2%80%99m+a+developer-for-hire;i+love+sedatives)](https://git.io/typing-svg)
+
 # <h1> About me </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=F70E9F&width=435&lines=i+still+barely+know+any+of+this+below;please+don%E2%80%99t+shame+me)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dickable.dickable" alt="Visitor Badge" />
+</p>
+
 <div id="Bio">
   <p>I'm an 18 year old developer, I specialize in general software development, and full stack development
 
