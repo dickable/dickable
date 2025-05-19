@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=F70E9F&width=435&lines=hello+internet+user;i%E2%80%99m+a+developer-for-hire;i+love+sedatives)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=F70E9F&width=435&lines=hello+internet+user;i%E2%80%99m+a+developer-for-hire;i+love+sedatives">
 </p>
 
 # <h1> About me </h1>
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=F70E9F&width=435&lines=i+still+barely+know+any+of+this+below;please+don%E2%80%99t+shame+me)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=F70E9F&width=435&lines=i+still+barely+know+any+of+this+below;please+don%E2%80%99t+shame+me">
 </p>
 
 <p align="center">
