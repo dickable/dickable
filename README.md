@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F70E9F&width=435&lines=i+still+barely+know+any+of+this+below;please+don%E2%80%99t+shame+me">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dickable">
-</p>
+<img src="https://komarev.com/ghpvc/?username=dickable">
 
 <div id="Bio">
   <p>I'm an 18 year old developer, I specialize in general software development, and full stack development
